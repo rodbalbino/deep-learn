@@ -1,2 +1,2 @@
-# deep-learn
-Estudos de deep-learn
+# Learn Python for Data Science
+Estudos de Python
